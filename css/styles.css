@@ -1,0 +1,127 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  font-style: italic;
+  font-family: 'Festive', serif;
+  font-size: 8.125rem;
+  font-weight: normal;
+  margin:100px auto 50px auto;
+  color: #F6416C;
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'short stack',serif;
+  color: #F6416C;
+  font-weight: normal;
+}
+h3{
+  color:#FF8E00;
+  font-size: 20px;
+
+}
+a{
+  color: #FFDE7D;
+}
+hr{
+  width: 5%;
+  border-style: dotted none none;
+  border-width:8px;
+  border-color: #FFDE7D;
+}
+.upper{
+  background-color: #00B8A9;
+  padding-top: 80px;
+  position: relative;
+}
+.pro{
+  text-decoration: underline;
+}
+.middle{
+  background-color: #F5F2E7;
+  padding: 20px;
+  padding-bottom: 30px;
+}
+.bottom{
+  background-color: #F8F3D4;
+  padding: 30px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 18%;
+  top: 62%;
+}
+.upper-cloud{
+  position: absolute;
+  right: 13%;
+  top: 23%;
+}
+p{
+  font-family: 'Short Stack', serif;
+}
+.profile-pic{
+  height: 400px;
+  width: 400px;
+}
+.webdevlopment{
+  margin-right: 30px;
+  float: left;
+  height: 40%;
+  width: 40%;
+}
+.java{
+  height: 40%;
+  width: 40%;
+  float: right;
+  margin-right: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}.hi{
+  font-size: 70px;
+
+}
+.last-p{
+  padding-bottom: 30px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #FFDE7D;
+  font-size: 30px;
+  background: #A3DA8D;
+  padding: 10px 20px 10px 20px;
+  border: solid #f7fcff 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #0d9eff);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #0d9eff);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #0d9eff);
+  background-image: -o-linear-gradient(top, #3cb0fd, #0d9eff);
+  background-image: linear-gradient(to bottom, #3cb0fd, #0d9eff);
+  text-decoration: none;
+}
+.linkedin{
+  height: 3%;
+  width: 3%;
+  padding-right: 100px;
+}
+.twitter{
+height: 3%;
+width: 3%;
+}
+.discord{
+height: 3%;
+width: 3%;
+padding-left: 100px;
+}
